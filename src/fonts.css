@@ -1,0 +1,10 @@
+/* src/fonts.css */
+
+@font-face {
+    font-family: 'Geist';
+    src: url('../public/fonts/statics-ttf/Geist-Regular.ttf') format('truetype'); /* Adjust path as per your file location */
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  
