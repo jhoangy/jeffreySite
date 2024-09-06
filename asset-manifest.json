@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/jeffreySite/static/css/main.4f483b05.css",
+    "main.js": "/jeffreySite/static/js/main.bc0f1e37.js",
+    "static/js/453.bb828c5d.chunk.js": "/jeffreySite/static/js/453.bb828c5d.chunk.js",
+    "static/media/Geist-Regular.ttf": "/jeffreySite/static/media/Geist-Regular.d2b564dd1ed0965d151c.ttf",
+    "static/media/torontostamp.png": "/jeffreySite/static/media/torontostamp.ee9164734276c52bc5fe.png",
+    "index.html": "/jeffreySite/index.html",
+    "main.4f483b05.css.map": "/jeffreySite/static/css/main.4f483b05.css.map",
+    "main.bc0f1e37.js.map": "/jeffreySite/static/js/main.bc0f1e37.js.map",
+    "453.bb828c5d.chunk.js.map": "/jeffreySite/static/js/453.bb828c5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f483b05.css",
+    "static/js/main.bc0f1e37.js"
+  ]
+}
